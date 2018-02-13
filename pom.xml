@@ -48,7 +48,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>RESTfullServ</finalName>
+    <finalName>RESTfullClient</finalName>
     <plugins>
     <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
